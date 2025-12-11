@@ -73,4 +73,11 @@ L'installation est en cours.
 
 ### LORS DU REDÉMARRAGE IL FAUT ENLEVER LA CLÉ USB QUI CONTIENT L'OS POUR NE PAS ÊTRE DIRIGER ENCORE VERS L'INSTALLATION
 
+## Serveur: Ubuntu Server
+
+Lien pour le téléchargement: [Ubuntu Server](https://ubuntu.com/download/server)
+
+Allez dans votre bios et dites lui de boot à partir de la clé USB qui contient l'OS
+Si vous avez bien configuré le BIOS vous allez être dirigé automatiquement à cette fenêtre lors de l'ouverture de votre ordinateur.
+![](screenshot/Ubuntu Server/1.png)
 
