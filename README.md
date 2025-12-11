@@ -82,3 +82,76 @@ Si vous avez bien configuré le BIOS vous allez être dirigé automatiquement à
 
 ![](screenshot/Ubuntuserver/1.png)
 
+Appuyez sur "Entrée" pour continuer. Choisissez la première option.
+
+![](screenshot/Ubuntuserver/2.png)
+
+Choisissez la langue de votre choix. Anglais est un bon choix aussi.
+
+![](screenshot/Ubuntuserver/3.png)
+
+1. Vous pouvez appuyer sur "Identifier le clavier" et l'installeur saura trouver votre clavier de choix.
+2. Terminé
+
+![](screenshot/Ubuntuserver/4.png)
+
+1. Ubuntu Server
+2. Terminé
+
+![](screenshot/Ubuntuserver/5.png)
+
+Choisissez votre bonne interface réseau.
+1. Terminé
+
+![](screenshot/Ubuntuserver/6.png)
+
+Pas besoin de gérer ça pour ce qu'on va faire.
+1. Terminé
+
+![](screenshot/Ubuntuserver/7.png)
+
+J'ai laissé l'adresse du mirroir par défaut.
+1. Terminé
+
+![](screenshot/Ubuntuserver/8.png)
+
+1. Choisissez le disque que vous voulez.
+2. Laissez l'option LVM group de coché
+3. Terminé
+
+![](screenshot/Ubuntuserver/9.png)
+
+Vérifiez que tout est OK.
+1. Terminé
+
+![](screenshot/Ubuntuserver/10.png)
+
+Le pop-up vous annonce que l'installation va commencer.
+1. Continuer
+
+![](screenshot/Ubuntuserver/11.png)
+
+1. N'oubliez pas ces informations.
+2. Terminé
+
+![](screenshot/Ubuntuserver/12.png)
+
+On ne payera pas pour Ubuntu Pro alors cochez "Skip for now" et continuez.
+
+![](screenshot/Ubuntuserver/13.png)
+
+### Cette étape est importante, il faut absolument utiliser le serveur openSSH pour facilement se connecter au serveur Ubuntu à partir de la machine client ###
+
+1. Assurez-vous que l'option est coché.
+2. Terminé
+
+![](screenshot/Ubuntuserver/14.png)
+
+Bravo, Ubuntu est installé!
+1. Redémarrer maintenant
+
+![](screenshot/Ubuntuserver/15.png)
+
+N'oubliez pas de retirer votre clé USB sinon vous allez avoir cette erreur.
+
+Voici donc comment installer Manjaro OS sur un poste Client et Ubuntu Server sur une machine serveur.
