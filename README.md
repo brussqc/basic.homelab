@@ -80,5 +80,5 @@ Lien pour le téléchargement: [Ubuntu Server](https://ubuntu.com/download/serve
 Allez dans votre bios et dites lui de boot à partir de la clé USB qui contient l'OS
 Si vous avez bien configuré le BIOS vous allez être dirigé automatiquement à cette fenêtre lors de l'ouverture de votre ordinateur.
 
-![](screenshot/Ubuntu Server/1.png)
+![](screenshot/Ubuntuserver/1.png)
 
