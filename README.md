@@ -4,4 +4,4 @@ Vous trouverez ici la documentation sur comment réaliser un homelab de base. Le
 
 ## Voici le schéma du réseau expliqué ci-dessus
 
-![](./home/basic.homelab/screenshot/schemafinal.png)
+![](/home/william/basic.homelab/screenshot/)
